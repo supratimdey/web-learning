@@ -1,9 +1,12 @@
 
   body{
-    background-color: #f0fff3;
+    background-color: #eaf6f6;
   }
-  hr {
+  h1,h3 {
+      color: #6fbfbf;
+  }
 
+  hr {
     border-style: none;
     border-top-style:  dotted;
     border-top-color: #c9d6df;
